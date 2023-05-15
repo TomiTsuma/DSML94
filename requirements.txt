@@ -1,0 +1,5 @@
+pandas 
+os
+numpy
+rpy2
+psycopg2
